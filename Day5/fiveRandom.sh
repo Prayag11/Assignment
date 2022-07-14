@@ -1,4 +1,5 @@
 #!/bin/bash -x
+# Program for getting five random values and add it and Average of it.
 v1=$(( ( RANDOM % 100 )  + 1 ))
 v2=$(( ( RANDOM % 100 )  + 1 ))
 v3=$(( ( RANDOM % 100 )  + 1 ))
